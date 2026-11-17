@@ -1,0 +1,34 @@
+[submodule "arc-suite"]
+	path = arc-suite
+	url = https://github.com/ACKaraca/arc-suite.git
+[submodule "arc-core"]
+	path = arc-core
+	url = https://github.com/ACKaraca/arc-core.git
+[submodule "archbuilder"]
+	path = archbuilder
+	url = https://github.com/ACKaraca/archbuilder.git
+[submodule "draftbuilder"]
+	path = draftbuilder
+	url = https://github.com/ACKaraca/draftbuilder.git
+[submodule "civilbuilder"]
+	path = civilbuilder
+	url = https://github.com/ACKaraca/civilbuilder.git
+[submodule "solidbuilder"]
+	path = solidbuilder
+	url = https://github.com/ACKaraca/solidbuilder.git
+[submodule "meshbuilder"]
+	path = meshbuilder
+	url = https://github.com/ACKaraca/meshbuilder.git
+[submodule "renderbuilder"]
+	path = renderbuilder
+	url = https://github.com/ACKaraca/renderbuilder.git
+[submodule "arc-review"]
+	path = arc-review
+	url = https://github.com/ACKaraca/arc-review.git
+[submodule "arc-hub"]
+	path = arc-hub
+	url = https://github.com/ACKaraca/arc-hub.git
+[submodule "arc-internal"]
+	path = arc-internal
+	url = https://github.com/ahmetcemkaraca/arc-internal.git
+	update = none
