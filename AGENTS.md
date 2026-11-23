@@ -24,8 +24,10 @@ documentation of its own.
 - `arc-internal` is written in Turkish for the maintainer, except its `planning/`, `parity/` and
   `research/` folders.
 - Repositories that are not listed above are out of scope; do not modify them.
-- Until the suite rules say otherwise (rule 14), commit directly to `main` in every repository: no
-  feature branches and no pull requests.
+- Until the suite rules say otherwise (rule 14), the maintainer commits directly to `main` in every
+  repository. Other contributors work on a branch and open a pull request; the maintainer reviews
+  and merges it. Claim an issue (assignee and board status *In Progress*) before starting, and do not
+  start on an issue someone else has claimed.
 - Suite-wide decisions live in `arc-suite/docs/adr`.
 - Work is tracked as GitHub issues in each repository and on the organization project board
   "Arc Suite" (https://github.com/orgs/ACKaraca/projects/1; statuses Backlog, Ready, In Progress,
